@@ -18,4 +18,5 @@ http://www.ncbi.nlm.nih.gov/clinvar/?term=breast
 Step 5 : In notebook,wait for kernel to get start,once kernel get start,do step by step execution of the program.
 
 
+Note : Change your dataset name accordingly, I have used it as clinvar_result_Final.csv 
 
