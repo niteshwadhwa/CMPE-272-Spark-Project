@@ -26,7 +26,7 @@ for name1 in name.collect():
     b_1=name1.split('|')                                                                                                            
     for uniqueWord in b_1:                                                                                                            
       if not uniqueWord in Words:                                                                                                     
-          print str(uniqueWord);                                                                                                                                                                                                                
+          print str(uniqueWord);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 Please follow the below steps to setup the project in IBM Bluemix:
 
 Step 1 : Download ClinVar dataset from this Path :
